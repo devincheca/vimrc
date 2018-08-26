@@ -5,5 +5,6 @@ set number
 set background=dark
 set mouse=a
 set visualbell
+set autoindent
 syntax enable
 set backspace=indent,eol,start
